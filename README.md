@@ -98,6 +98,6 @@ With its user-friendly interface and powerful features, it has become a popular 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 ## AUTHORS
 ---------------------------------------------------------------------------------------------------------------------
-* [DRAIA OUSSAMA](draiaoussama@gmail.com)
+* [DRAIA Oussama](draiaoussama@gmail.com)
 
-* [ADHAIM LOUKMANE](lokadadlok@gmail.com)
+* [Loukmane adhaim](adhaimlokma@gmail.com)
